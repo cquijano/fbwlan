@@ -1,10 +1,10 @@
 <!doctype html>
 <html>
     <head>
-        <link rel="stylesheet" href="static/pure-min.css">
-        <link rel="stylesheet" href="static/grids-responsive-min.css">
-        <link rel="stylesheet" href="static/fontawesome/css/font-awesome.min.css">
-        <link rel="stylesheet" href="static/my.css">
+        <link rel="stylesheet" href="/static/pure-min.css">
+        <link rel="stylesheet" href="/static/grids-responsive-min.css">
+        <link rel="stylesheet" href="/static/fontawesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/static/my.css">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title><?php echo $title; ?></title>
     </head>
